@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Contacts Backup</string>
+    <string name="copyright">Copyright (c) 2016 Corp. All rights reserved.</string>
+    <string name="author">Saad Harris Ahmad</string>
+    <string name="paragraph">1) Splash Screen\n2) File IO Stream\n3) Toast\n4) Menu Inflated\n5) Contact Class Encapsulated\n6) LogCat\nBuild 19</string>
+</resources>

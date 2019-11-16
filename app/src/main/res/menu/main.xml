@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_au"
+        android:orderInCategory="1"
+        android:title="Developer"/>
+
+    <item
+        android:id="@+id/action_cu"
+        android:orderInCategory="2"
+        android:icon="@drawable/contacts"
+        android:title="Contact Us"/>
+    <item
+        android:id="@+id/achieve"
+        android:orderInCategory="3"
+        android:title="Achievements"/>
+</menu>
